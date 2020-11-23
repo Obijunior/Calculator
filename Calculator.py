@@ -14,7 +14,7 @@ elif Operator = "*"
 answer = num1*num2
     print(answer)
 
-elif Operator = "/"
+elif Operator = "/" 
 answer = num1/num2
     print(answer)
 
