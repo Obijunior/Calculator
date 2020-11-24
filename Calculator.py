@@ -1,6 +1,6 @@
 def calculator() :
     num1 = int(input("First number : "))
-    Operator = input("Operator(+  *  /  -  **[squared]) : ")
+    Operator = input("Operator(+[addidion]  *[multiplicaton]  /[division]  -[subtraction]  **[square])  sqrt[square root] : ")
     num2 = int(input("Second number : "))
 
     if Operator == "+" :
